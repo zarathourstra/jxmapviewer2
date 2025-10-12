@@ -15,7 +15,7 @@ public class OSMTileFactoryInfo extends TileFactoryInfo
      */
     public OSMTileFactoryInfo()
     {
-        this("OpenStreetMap", "http://tile.openstreetmap.org");
+        this("OpenStreetMap", "https://tile.openstreetmap.org");
     }
 
     /**
@@ -52,3 +52,4 @@ public class OSMTileFactoryInfo extends TileFactoryInfo
 
 
 }
+
